@@ -4,8 +4,7 @@
   "description": "weekly collection of fb.com/groups/f2etw",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages-deploy",
-    "gulpdeploy": "jekyll b && gulp deploy",
+    "deploy": "jekyll b && gulp deploy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "gh-pages-deploy": {
